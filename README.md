@@ -1,2 +1,2 @@
-# Learn_Python
-This repository will be used to store simple projects that help me learn Python. No large scale projects or anything, just small programs to understand basic concepts or expand on intermediate concepts.
+# Automate_The_Boring_Stuff
+This repository contains all of the projects completed from the book "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners" by Al Sweigart. I learned a lot!
